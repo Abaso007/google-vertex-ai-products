@@ -1,4 +1,4 @@
-# Please Note:
+# Please Note: ⚠️
 
 If you're looking for the source code of `2 minutes online` which is an application to get your online presence in 2 minutes, please [visit here](https://github.com/deependujha/google-vertex-ai-hackathon-project).
 
